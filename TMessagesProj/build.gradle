@@ -25,7 +25,7 @@ android {
     buildToolsVersion '24.0.2'
 
     useLibrary 'org.apache.http.legacy'
-    defaultConfig.applicationId = "com.wegram.samant"
+    defaultConfig.applicationId = "com.avina.tg"
 
     sourceSets.main.jniLibs.srcDirs = ['./jni/']
 
