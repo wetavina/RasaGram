@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.wegram.samant"
+    package="com.avina.tg"
     android:installLocation="auto">
 
     <uses-sdk tools:overrideLibrary="co.ronash.pushe" />
@@ -63,10 +63,10 @@
     <uses-permission android:name="android.permission.CAMERA" />
 
     <permission
-        android:name="com.wegram.samant.permission.C2D_MESSAGE"
+        android:name="com.avina.tg.permission.C2D_MESSAGE"
         android:protectionLevel="signature" />
 
-    <uses-permission android:name="com.wegram.samant.permission.C2D_MESSAGE" />
+    <uses-permission android:name="com.avina.tg.permission.C2D_MESSAGE" />
 
     <!-- Optional permissions -->
     <application
